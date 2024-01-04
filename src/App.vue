@@ -1,7 +1,7 @@
 <template>
     <!-- html code  -->
     <div class="app">
-        <h1>你好，VUE3</h1>
+        <h1>你好VUE3</h1>
     </div>
 </template>
 
